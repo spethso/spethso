@@ -1,29 +1,30 @@
-### Hello there, my name is Sandro 👋
+## Hi, I’m Sandro Speth 👋
 
-I am currently research assistant at the [Software Quality and Architecture Group](https://www.iste.uni-stuttgart.de/sqa/team/Speth) of the University of Stuttgart in Germany. 
-Additionally, I am Gold [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/de-DE/profile/218) and Co-founder of the [Microsoft Campus Community](https://campus-community.org/), a German program for technology-interested students, where I am leading the Baden-Württemberg hub.
+Postdoctoral researcher at the **Technical University of Munich (TUM)**.
 
-My general research interests are Component-based and (Micro-)Service-oriented Software Architectures, Software Quality, and Issue Management. 
-More specific, I am interested in (1) how to automate the management of issues that affect multiple components, i.e. Cross-Component Issues, (2) how to identify the propagation of software quality violations, e.g. performance SLO violations, and (3) analysing their impact on entire architectures. For a list of my publications and supervised students' works, please checkout my [university page](https://www.iste.uni-stuttgart.de/sqa/team/Speth). 🔭
+I work at the intersection of **software engineering**, **software architecture**, and **education technology**—with a current focus on **AI for SE/SA** and **AI-supported teaching & learning**.
 
-<!--
-TODO:
-- Speaking engagements
-- Links to Twitter, LinkedIn, and YouTube
-- Hobbies
--->
+- 🧠 **Research interests:** Software Engineering • Software Architecture • AI for SE • AI for SA • Education Technology  
+- 🎓 Previously: Institute of Software Engineering, **University of Stuttgart** — research on **issue management & propagation analysis** for component-based systems (Dr. rer. nat., with distinction)
+- 🧩 I’m especially interested in:
+  - **Cross-component issue management** (issues spanning multiple teams/components)
+  - **Propagation analysis** (how problems/violations spread through architectures)
+  - Applying **AI** to support **architecture evaluation/optimization** and **learning experiences**
 
-<!--
-**spethso/spethso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Projects / Things I build
+- **Gropius** — an issue management system that combines **architectural knowledge** with **issue management & propagation analysis**  
+  → https://gropius.dev
 
-Here are some ideas to get you started:
+### 🧑‍🤝‍🧑 Current community & service
+- Spokesperson, **Microservices & DevOps** group (German Informatics Society / GI)
+- Steering committee member, **AI4SA** group (GI)
+- Actively involved in **conference organization** (e.g., **Program Committee member** / **track-level roles**) for top venues such as **IEEE ICSA**
+- Regular **reviewer** for leading journals such as the **Journal of Systems and Software (JSS)**
+  
+### 📚 Publications
+- [Google Scholar](https://scholar.google.com/citations?user=Tyz30W4AAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0002-9790-3702)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact & links
+- Email via TUM profile: https://aet.cit.tum.de/people/speth/
+- LinkedIn: https://www.linkedin.com/in/sandro-speth/
